@@ -1,7 +1,7 @@
 # Observable-AE
 Sample codes for observable-augmented autoencoder by Fukami and Taira (in review, 2023)
 
-[fig3.pdf](https://github.com/kfukami/Observable-AE/files/12324339/fig3.pdf)
+![fig3](https://github.com/kfukami/Observable-AE/assets/62085615/c6f5ac05-481a-40d5-9327-41f4df8b667b)
 
 # Reference
 Kai Fukami and Kunihiko Taira, ``Grasping extreme aerodynamics on a low-dimensional manifold," in review, preprint: [arXiv:2305.08024](https://arxiv.org/abs/2305.08024), 2023
