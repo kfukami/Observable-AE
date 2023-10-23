@@ -4,7 +4,7 @@ Sample codes for observable-augmented autoencoder by Fukami and Taira (Nature Co
 ![fig3](https://github.com/kfukami/Observable-AE/assets/62085615/c6f5ac05-481a-40d5-9327-41f4df8b667b)
 
 # Reference
-Kai Fukami and Kunihiko Taira, ``Grasping extreme aerodynamics on a low-dimensional manifold," Nature Communications, preprint: [arXiv:2305.08024](https://arxiv.org/abs/2305.08024), 2023
+Kai Fukami and Kunihiko Taira, ``Grasping extreme aerodynamics on a low-dimensional manifold," [Nature Communications, 14, 6480](https://www.nature.com/articles/s41467-023-42213-6), preprint: [arXiv:2305.08024](https://arxiv.org/abs/2305.08024), 2023
 
 # Information
 Author: [Kai Fukami](https://scholar.google.co.jp/citations?user=ipJb8qcAAAAJ&hl=en) (UCLA)
