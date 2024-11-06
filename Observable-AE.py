@@ -6,7 +6,7 @@
 ## We provide no guarantees for this code.  Use as-is and for academic research use only; no commercial use allowed without permission. For citation, please use the reference below:
 #     Ref: K. Fukami and K. Taira,
 #     “Grasping extreme aerodynamics on a low-dimensional manifold,”
-#     in review, 2023
+#     Nature Communications, 14, 6480, 2023
 #
 # The code is written for educational clarity and not for speed.
 # -- version 1: Aug 11, 2023
